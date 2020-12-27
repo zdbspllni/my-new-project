@@ -5,7 +5,10 @@ Final project for the Building AI course
 
 ## Summary
 
-When parents reach a zebra crossing, they have to wait for the traffic light to turn red. Some have a botom to accelerate the movement but the parents might be overwhelmed with some baby staff to do. A camera could recognize the strollers and allow for a faster red light if traffic allows.  
+When parents reach a zebra crossing, they have to wait for the traffic light to turn red. Some have a button to accelerate the movement but the parents might be overwhelmed with some baby staff to do. A camera could recognize the strollers and allow for a faster red light if traffic allows.  
+This will help parent to manage their stress and ensure higher security level on the road limiting jaywalking and other offences. It will also control drivers who are often tempted to pass even with a stroller on their way. 
+Finally, its’s a step forward to an intelligent city.
+ 
 
 
 ## Background
